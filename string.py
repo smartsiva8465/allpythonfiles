@@ -40,8 +40,9 @@ if palindrome  (st):
     print('is palindrome')
 else:
     print('not a palindrome')
- #palindrome
+ #palindrome of string
 s='miss'
 print(s[::-1])
 print(s==s[::-1])
 print('siva prasad')
+print('siva')
